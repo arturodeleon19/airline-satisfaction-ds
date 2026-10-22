@@ -2,7 +2,7 @@
 
 An end-to-end Machine Learning pipeline and interactive web application predicting customer satisfaction from flight survey responses and operational metrics using **LightGBM**.
 
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](airline-satisfaction-ds-ff4t2bgwuys7nkbitasgot)
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://airline-satisfaction-ds-ff4t2bgwuys7nkbitasgot.streamlit.app/)
 [![Python](https://img.shields.io/badge/Python-3.11-blue.svg)](https://www.python.org/)
 [![LightGBM](https://img.shields.io/badge/Model-LightGBM-green.svg)](https://lightgbm.readthedocs.io/)
 [![Framework](https://img.shields.io/badge/App-Streamlit-red.svg)](https://streamlit.io/)
